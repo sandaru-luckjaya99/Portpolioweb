@@ -19,4 +19,5 @@
 .env.test.local
 .env.production.local
 
+.README.md
 *.log
