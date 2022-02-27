@@ -124,7 +124,7 @@ You should have [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/
 
     - Navigate to the "public" folder.  
     - There you will see "social-image.png".  
-    - Delete it.   
+    - Delete t.   
     - Take a screenshot of your version and rename it "social-image.png" and place it there.  
     
    Next time if you make changes, repeat from step 8.
