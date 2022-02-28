@@ -61,7 +61,8 @@ const about = {
   imageSize: 375,
   message:
     "My name is Sandaruwan dahanake. I’m an undergraduate in BSc.(Hons) in Information Technology at University of Sri Jayewardenepura, Sri Lanka. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the fields of Mobile Application Development, Web application Development, UI/UX development. In my free time I like composing music. ",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+  // resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+  resume: require("../editable-stuff/IT_graduate.pdf"),
 };
 
 // PROJECTS SECTION
