@@ -24,7 +24,7 @@ const mainBody = {
 
     {
       image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
+      url: "https://www.instagram.com/sandaruwan_dahanake/",
     },
 
     {
