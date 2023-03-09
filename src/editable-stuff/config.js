@@ -63,8 +63,11 @@ const about = {
   imageLink: require("../editable-stuff/profile.jpg"), 
   imageSize: 375,
   message:
-    "I'm Sandaruwan Dahanake, currently pursuing a BSc.(Hons) in Information Technology at the University of Sri Jayewardenepura in Sri Lanka. My biggest passion is giving back to the community, and I'm striving to pursue this through my work in Mobile Application Development, Web Application Development, UI/UX Development, and Researching.When I'm not studying or working, I love to compose music in my free time. It's a great creative outlet that helps me stay focused and balanced.",
-  message2:"Thanks for taking the time to read about me! If you're interested in connecting or learning more, please don't hesitate to reach out.",
+    "I'm Sandaruwan Dahanake, currently pursuing a BSc.(Hons) in Information Technology at the University of Sri Jayewardenepura in Sri Lanka." ,
+  message2:
+    "My biggest passion is giving back to the community, and I'm striving to pursue this through my work in Mobile Application Development, Web Application Development, UI/UX Development, and Researching.When I'm not studying or working, I love to compose music in my free time. It's a great creative outlet that helps me stay focused and balanced.",
+  message3:
+    "Thanks for taking the time to read about me! If you're interested in connecting or learning more, please don't hesitate to reach out.",
     // resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
   resume: require("../editable-stuff/IT_ graduate.pdf"),
 };
@@ -111,14 +114,14 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
-    { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "Python"},
+    { name: "SQL"},
+    { name: "Data Structures"},
+    { name: "C/C++"},
+    { name: "JavaScript"},
+    { name: "React" },
+    { name: "HTML/CSS" },
+    { name: "C#"},
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
